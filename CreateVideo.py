@@ -29,7 +29,7 @@ def convert_frames_to_video(pathIn,pathOut,fps):
     out.release()
 
 def main():
-    destination = "/media/HardDrive/Projects/EM_Cloaking/";
+    destination = "/media/HardDrive/Projects/EM Cloaking/";
     pathIn = destination + 'Renders/'
     pathOut = destination + 'Video.avi'
     fps = 25.0
